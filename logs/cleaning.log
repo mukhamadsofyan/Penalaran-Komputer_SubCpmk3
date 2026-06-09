@@ -32,3 +32,153 @@
 2026-06-08 22:33:31.920603 - [SUCCESS] case_032 berhasil diproses dan disimpan.
 2026-06-08 22:33:31.921032 - [SUCCESS] case_033 berhasil diproses dan disimpan.
 2026-06-08 22:33:31.921442 - [SUCCESS] case_034 berhasil diproses dan disimpan.
+2026-06-09 19:56:39,073 | ERROR | Gagal ekstrak PDF putusan_1006_pid.b_2024_pn_mdn_20260609192006.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,081 | WARNING | SKIP case_001 (putusan_1006_pid.b_2024_pn_mdn_20260609192006.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,082 | ERROR | Gagal ekstrak PDF putusan_1055_pid.b_2024_pn_mdn_20260609191737.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,083 | WARNING | SKIP case_002 (putusan_1055_pid.b_2024_pn_mdn_20260609191737.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,084 | ERROR | Gagal ekstrak PDF putusan_1063_pid.b_2024_pn_mdn_20260609192042.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,086 | WARNING | SKIP case_003 (putusan_1063_pid.b_2024_pn_mdn_20260609192042.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,088 | ERROR | Gagal ekstrak PDF putusan_1080_pid.b_2024_pn_mdn_20260609192153.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,089 | WARNING | SKIP case_004 (putusan_1080_pid.b_2024_pn_mdn_20260609192153.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,091 | ERROR | Gagal ekstrak PDF putusan_1101_pid.b_2024_pn_mdn_20260609191930.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,092 | WARNING | SKIP case_005 (putusan_1101_pid.b_2024_pn_mdn_20260609191930.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,094 | ERROR | Gagal ekstrak PDF putusan_1102_pid.b_2024_pn_mdn_20260609192343.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,095 | WARNING | SKIP case_006 (putusan_1102_pid.b_2024_pn_mdn_20260609192343.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,096 | ERROR | Gagal ekstrak PDF putusan_1114_pid.b_2024_pn_mdn_20260609191354.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,098 | WARNING | SKIP case_007 (putusan_1114_pid.b_2024_pn_mdn_20260609191354.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,099 | ERROR | Gagal ekstrak PDF putusan_1115_pid.b_2024_pn_mdn_20260609191333.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,100 | WARNING | SKIP case_008 (putusan_1115_pid.b_2024_pn_mdn_20260609191333.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,102 | ERROR | Gagal ekstrak PDF putusan_1116_pid.b_2024_pn_mdn_20260609191435.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,106 | WARNING | SKIP case_009 (putusan_1116_pid.b_2024_pn_mdn_20260609191435.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,108 | ERROR | Gagal ekstrak PDF putusan_1124_pid.b_2024_pn_mdn_20260609192409.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,110 | WARNING | SKIP case_010 (putusan_1124_pid.b_2024_pn_mdn_20260609192409.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,111 | ERROR | Gagal ekstrak PDF putusan_1145_pid.b_2024_pn_mdn_20260609191124.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,112 | WARNING | SKIP case_011 (putusan_1145_pid.b_2024_pn_mdn_20260609191124.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,113 | ERROR | Gagal ekstrak PDF putusan_1157_pid.b_2024_pn_mdn_20260609191712.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,117 | WARNING | SKIP case_012 (putusan_1157_pid.b_2024_pn_mdn_20260609191712.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,119 | ERROR | Gagal ekstrak PDF putusan_1227_pid.b_2024_pn_mdn_20260609191523.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,122 | WARNING | SKIP case_013 (putusan_1227_pid.b_2024_pn_mdn_20260609191523.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,123 | ERROR | Gagal ekstrak PDF putusan_1263_pid.b_2024_pn_mdn_20260609191655.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,124 | WARNING | SKIP case_014 (putusan_1263_pid.b_2024_pn_mdn_20260609191655.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,126 | ERROR | Gagal ekstrak PDF putusan_1276_pid.b_2024_pn_mdn_20260609191819.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,127 | WARNING | SKIP case_015 (putusan_1276_pid.b_2024_pn_mdn_20260609191819.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,129 | ERROR | Gagal ekstrak PDF putusan_1282_pid.b_2024_pn_mdn_20260609191856.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,130 | WARNING | SKIP case_016 (putusan_1282_pid.b_2024_pn_mdn_20260609191856.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,132 | ERROR | Gagal ekstrak PDF putusan_1295_pid.b_2024_pn_mdn_20260609191033.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,133 | WARNING | SKIP case_017 (putusan_1295_pid.b_2024_pn_mdn_20260609191033.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,134 | ERROR | Gagal ekstrak PDF putusan_1333_pid.b_2024_pn_mdn_20260609191633.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,134 | WARNING | SKIP case_018 (putusan_1333_pid.b_2024_pn_mdn_20260609191633.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,140 | ERROR | Gagal ekstrak PDF putusan_1355_pid.b_2024_pn_mdn_20260609191257.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,145 | WARNING | SKIP case_019 (putusan_1355_pid.b_2024_pn_mdn_20260609191257.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,148 | ERROR | Gagal ekstrak PDF putusan_1454_pid.b_2024_pn_mdn_20260609191540.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,149 | WARNING | SKIP case_020 (putusan_1454_pid.b_2024_pn_mdn_20260609191540.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,151 | ERROR | Gagal ekstrak PDF putusan_1455_pid.b_2024_pn_mdn_20260609191611.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,152 | WARNING | SKIP case_021 (putusan_1455_pid.b_2024_pn_mdn_20260609191611.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,155 | ERROR | Gagal ekstrak PDF putusan_1499_pid.b_2024_pn_mdn_20260609191104.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,156 | WARNING | SKIP case_022 (putusan_1499_pid.b_2024_pn_mdn_20260609191104.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,158 | ERROR | Gagal ekstrak PDF putusan_1522_pid.b_2024_pn_mdn_20260609190933.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,164 | WARNING | SKIP case_023 (putusan_1522_pid.b_2024_pn_mdn_20260609190933.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,167 | ERROR | Gagal ekstrak PDF putusan_1535_pid.b_2024_pn_mdn_20260609191053.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,168 | WARNING | SKIP case_024 (putusan_1535_pid.b_2024_pn_mdn_20260609191053.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,178 | ERROR | Gagal ekstrak PDF putusan_1551_pid.b_2024_pn_mdn_20260609190819.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,179 | WARNING | SKIP case_025 (putusan_1551_pid.b_2024_pn_mdn_20260609190819.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,180 | ERROR | Gagal ekstrak PDF putusan_1606_pid.b_2024_pn_mdn_20260609191138.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,181 | WARNING | SKIP case_026 (putusan_1606_pid.b_2024_pn_mdn_20260609191138.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,182 | ERROR | Gagal ekstrak PDF putusan_1693_pid.b_2024_pn_mdn_20260609190720.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,183 | WARNING | SKIP case_027 (putusan_1693_pid.b_2024_pn_mdn_20260609190720.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,184 | ERROR | Gagal ekstrak PDF putusan_1710_pid.b_2024_pn_mdn_20260609190758.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,185 | WARNING | SKIP case_028 (putusan_1710_pid.b_2024_pn_mdn_20260609190758.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,187 | ERROR | Gagal ekstrak PDF putusan_1730_pid.b_2024_pn_mdn_20260609190741.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,188 | WARNING | SKIP case_029 (putusan_1730_pid.b_2024_pn_mdn_20260609190741.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,192 | ERROR | Gagal ekstrak PDF putusan_1782_pid.b_2024_pn_mdn_20260609190833.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,195 | WARNING | SKIP case_030 (putusan_1782_pid.b_2024_pn_mdn_20260609190833.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,197 | ERROR | Gagal ekstrak PDF putusan_1846_pid.b_2024_pn_mdn_20260609190849.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,199 | WARNING | SKIP case_031 (putusan_1846_pid.b_2024_pn_mdn_20260609190849.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,201 | ERROR | Gagal ekstrak PDF putusan_1904_pid.b_2024_pn_mdn_20260609190642.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,201 | WARNING | SKIP case_032 (putusan_1904_pid.b_2024_pn_mdn_20260609190642.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,204 | ERROR | Gagal ekstrak PDF putusan_1959_pid.b_2024_pn_mdn_20260609190657.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,210 | WARNING | SKIP case_033 (putusan_1959_pid.b_2024_pn_mdn_20260609190657.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,217 | ERROR | Gagal ekstrak PDF putusan_2065_pid.b_2024_pn_mdn_20260609190559.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,218 | WARNING | SKIP case_034 (putusan_2065_pid.b_2024_pn_mdn_20260609190559.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,235 | ERROR | Gagal ekstrak PDF putusan_446_pid.b_2024_pn_mdn_20260609193020.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,248 | WARNING | SKIP case_035 (putusan_446_pid.b_2024_pn_mdn_20260609193020.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,249 | ERROR | Gagal ekstrak PDF putusan_447_pid.b_2024_pn_mdn_20260609192846.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,250 | WARNING | SKIP case_036 (putusan_447_pid.b_2024_pn_mdn_20260609192846.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,251 | ERROR | Gagal ekstrak PDF putusan_532_pid.b_2024_pn_mdn_20260609192741.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,257 | WARNING | SKIP case_037 (putusan_532_pid.b_2024_pn_mdn_20260609192741.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,262 | ERROR | Gagal ekstrak PDF putusan_534_pid.b_2024_pn_mdn_20260609192945.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,265 | WARNING | SKIP case_038 (putusan_534_pid.b_2024_pn_mdn_20260609192945.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,266 | ERROR | Gagal ekstrak PDF putusan_558_pid.b_2024_pn_mdn_20260608205619.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,267 | WARNING | SKIP case_039 (putusan_558_pid.b_2024_pn_mdn_20260608205619.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,268 | ERROR | Gagal ekstrak PDF putusan_570_pid.b_2024_pn_mdn_20260609193209.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,270 | WARNING | SKIP case_040 (putusan_570_pid.b_2024_pn_mdn_20260609193209.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,275 | ERROR | Gagal ekstrak PDF putusan_586_pid.b_2024_pn_mdn_20260609193256.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,284 | WARNING | SKIP case_041 (putusan_586_pid.b_2024_pn_mdn_20260609193256.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,293 | ERROR | Gagal ekstrak PDF putusan_587_pid.b_2024_pn_mdn_20260609192804.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,295 | WARNING | SKIP case_042 (putusan_587_pid.b_2024_pn_mdn_20260609192804.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,297 | ERROR | Gagal ekstrak PDF putusan_599_pid.b_2024_pn_mdn_20260609193134.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,298 | WARNING | SKIP case_043 (putusan_599_pid.b_2024_pn_mdn_20260609193134.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,301 | ERROR | Gagal ekstrak PDF putusan_612_pid.b_2024_pn_mdn_20260609193058.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,302 | WARNING | SKIP case_044 (putusan_612_pid.b_2024_pn_mdn_20260609193058.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,310 | ERROR | Gagal ekstrak PDF putusan_621_pid.b_2024_pn_mdn_20260609192708.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,311 | WARNING | SKIP case_045 (putusan_621_pid.b_2024_pn_mdn_20260609192708.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,312 | ERROR | Gagal ekstrak PDF putusan_773_pid.b_2024_pn_mdn_20260609192558.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,313 | WARNING | SKIP case_046 (putusan_773_pid.b_2024_pn_mdn_20260609192558.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,314 | ERROR | Gagal ekstrak PDF putusan_820_pid.b_2024_pn_mdn_20260609192443.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,314 | WARNING | SKIP case_047 (putusan_820_pid.b_2024_pn_mdn_20260609192443.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,315 | ERROR | Gagal ekstrak PDF putusan_880_pid.b_2024_pn_mdn_20260609192239.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,316 | WARNING | SKIP case_048 (putusan_880_pid.b_2024_pn_mdn_20260609192239.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,318 | ERROR | Gagal ekstrak PDF putusan_932_pid.b_2024_pn_mdn_20260609192327.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,318 | WARNING | SKIP case_049 (putusan_932_pid.b_2024_pn_mdn_20260609192327.pdf) | chars=0 | q=0.0
+2026-06-09 19:56:39,327 | ERROR | Gagal ekstrak PDF putusan_979_pid.b_2024_pn_mdn_20260609192538.pdf: No module named 'pdfminer'
+2026-06-09 19:56:39,328 | WARNING | SKIP case_050 (putusan_979_pid.b_2024_pn_mdn_20260609192538.pdf) | chars=0 | q=0.0
+2026-06-09 19:58:39,480 | INFO | OK   case_001 | 4907 kata | q=1.0
+2026-06-09 19:58:41,166 | INFO | OK   case_002 | 9220 kata | q=1.0
+2026-06-09 19:58:42,514 | INFO | OK   case_003 | 6402 kata | q=1.0
+2026-06-09 19:58:44,180 | INFO | OK   case_004 | 6769 kata | q=1.0
+2026-06-09 19:58:45,060 | INFO | OK   case_005 | 4062 kata | q=1.0
+2026-06-09 19:58:45,730 | INFO | OK   case_006 | 3494 kata | q=1.0
+2026-06-09 19:58:47,016 | INFO | OK   case_007 | 7072 kata | q=1.0
+2026-06-09 19:58:48,477 | INFO | OK   case_008 | 7199 kata | q=1.0
+2026-06-09 19:58:49,993 | INFO | OK   case_009 | 7090 kata | q=1.0
+2026-06-09 19:58:50,786 | INFO | OK   case_010 | 3748 kata | q=1.0
+2026-06-09 19:58:54,513 | INFO | OK   case_011 | 19324 kata | q=1.0
+2026-06-09 19:58:58,239 | INFO | OK   case_012 | 18316 kata | q=1.0
+2026-06-09 19:59:00,329 | INFO | OK   case_013 | 7603 kata | q=1.0
+2026-06-09 19:59:01,399 | INFO | OK   case_014 | 4753 kata | q=1.0
+2026-06-09 19:59:02,490 | INFO | OK   case_015 | 5445 kata | q=1.0
+2026-06-09 19:59:03,451 | INFO | OK   case_016 | 4226 kata | q=1.0
+2026-06-09 19:59:05,674 | INFO | OK   case_017 | 11539 kata | q=1.0
+2026-06-09 19:59:06,654 | INFO | OK   case_018 | 4422 kata | q=1.0
+2026-06-09 19:59:07,531 | INFO | OK   case_019 | 4402 kata | q=1.0
+2026-06-09 19:59:08,544 | INFO | OK   case_020 | 4961 kata | q=1.0
+2026-06-09 19:59:09,628 | INFO | OK   case_021 | 4962 kata | q=1.0
+2026-06-09 19:59:10,524 | INFO | OK   case_022 | 4044 kata | q=1.0
+2026-06-09 19:59:11,629 | INFO | OK   case_023 | 5545 kata | q=1.0
+2026-06-09 19:59:12,433 | INFO | OK   case_024 | 3880 kata | q=1.0
+2026-06-09 19:59:13,183 | INFO | OK   case_025 | 3320 kata | q=1.0
+2026-06-09 19:59:14,273 | INFO | OK   case_026 | 5757 kata | q=1.0
+2026-06-09 19:59:15,113 | INFO | OK   case_027 | 3987 kata | q=1.0
+2026-06-09 19:59:16,500 | INFO | OK   case_028 | 5795 kata | q=1.0
+2026-06-09 19:59:17,254 | INFO | OK   case_029 | 3749 kata | q=1.0
+2026-06-09 19:59:18,553 | INFO | OK   case_030 | 5619 kata | q=1.0
+2026-06-09 19:59:19,262 | INFO | OK   case_031 | 3677 kata | q=1.0
+2026-06-09 19:59:20,331 | INFO | OK   case_032 | 5221 kata | q=1.0
+2026-06-09 19:59:21,033 | INFO | OK   case_033 | 3488 kata | q=1.0
+2026-06-09 19:59:21,849 | INFO | OK   case_034 | 3632 kata | q=1.0
+2026-06-09 19:59:23,691 | INFO | OK   case_035 | 8657 kata | q=1.0
+2026-06-09 19:59:25,515 | INFO | OK   case_036 | 9018 kata | q=1.0
+2026-06-09 19:59:26,464 | INFO | OK   case_037 | 4364 kata | q=1.0
+2026-06-09 19:59:27,433 | INFO | OK   case_038 | 5064 kata | q=1.0
+2026-06-09 19:59:28,944 | INFO | OK   case_039 | 5483 kata | q=1.0
+2026-06-09 19:59:30,278 | INFO | OK   case_040 | 7203 kata | q=1.0
+2026-06-09 19:59:31,062 | INFO | OK   case_041 | 3722 kata | q=1.0
+2026-06-09 19:59:31,918 | INFO | OK   case_042 | 3747 kata | q=1.0
+2026-06-09 19:59:33,433 | INFO | OK   case_043 | 7509 kata | q=1.0
+2026-06-09 19:59:34,261 | INFO | OK   case_044 | 4396 kata | q=1.0
+2026-06-09 19:59:35,144 | INFO | OK   case_045 | 4122 kata | q=1.0
+2026-06-09 19:59:36,312 | INFO | OK   case_046 | 4959 kata | q=1.0
+2026-06-09 19:59:37,866 | INFO | OK   case_047 | 7794 kata | q=1.0
+2026-06-09 19:59:39,347 | INFO | OK   case_048 | 7724 kata | q=1.0
+2026-06-09 19:59:40,230 | INFO | OK   case_049 | 3909 kata | q=1.0
+2026-06-09 19:59:41,027 | INFO | OK   case_050 | 4002 kata | q=1.0
