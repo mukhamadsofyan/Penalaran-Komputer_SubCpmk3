@@ -1,0 +1,107 @@
+[
+  {
+    "query_id": "Q001",
+    "query": "terdakwa memukul korban dengan tangan hingga luka memar di wajah",
+    "expected_label": "ringan",
+    "description": "Penganiayaan ringan",
+    "true_case_id": null
+  },
+  {
+    "query_id": "Q002",
+    "query": "terdakwa menyerang korban menggunakan senjata tajam parang menyebabkan luka sobek",
+    "expected_label": "sedang",
+    "description": "Penganiayaan dengan senjata",
+    "true_case_id": null
+  },
+  {
+    "query_id": "Q003",
+    "query": "terdakwa menganiaya korban secara berulang hingga korban meninggal dunia",
+    "expected_label": "berat",
+    "description": "Penganiayaan berujung kematian",
+    "true_case_id": null
+  },
+  {
+    "query_id": "Q004",
+    "query": "terdakwa melakukan kekerasan fisik terhadap anggota keluarga anak di bawah umur",
+    "expected_label": "sedang",
+    "description": "KDRT terhadap anak",
+    "true_case_id": null
+  },
+  {
+    "query_id": "Q005",
+    "query": "terdakwa berkelahi dengan korban di tempat umum mengakibatkan luka ringan",
+    "expected_label": "ringan",
+    "description": "Perkelahian di tempat umum",
+    "true_case_id": null
+  },
+  {
+    "query_id": "REAL_case_027",
+    "query": ", bahwa terdakwa menyatakan tidak mengajukan saksi yangmeringankan (a de charge);menimbang, bahwa untuk memperkuat dalil pembuktiannya penuntutumum telah mengajukan bukti surat di depan persidangan berupa:-bahwa berdasarkan visum et repertum rsu. wulan windy no. 09/ket.ver/rm/rsww/iv/2025 tanggal 21 juni 2025 yang ditandatangani olehdr. said reski dengan hasil pemeriksaan terhadap saksi evy miniawatyadalah:memar di bagian kelopak mata bawah sebelah kiri serta ke biruan ukuran 3x2cm, memar di bagian pipi uku",
+    "expected_label": "pidana penjara selama 1 (satu) tahun dikurangi selama terdakwaberada dalam tahanan ; bebas",
+    "description": "Kasus nyata 1506/PID.B/2025/PN",
+    "true_case_id": "case_027"
+  },
+  {
+    "query_id": "REAL_case_004",
+    "query": ", bahwa terdakwa telah didakwa oleh penuntut umumdengan dakwaan yang berbentuk alternatif, sehingga majelis hakim denganmemperhatikan fakta-fakta hukum tersebut diatas memilih langsung dakwaanalternatif kesatu, sebagaimana diatur dalam pasal 170 ayat (1) kuhpidana,yang unsur-unsurnya adalah sebagai berikut : 1.barang siapa;2.dengan terang-terangan dan dengan tenaga bersama menggunakankekerasan terhadap orang atau barang;halaman 20 dari 27 putusan nomor 1078/pid.b/2025/pn mdn disclaimer kepaniteraan berusaha",
+    "expected_label": "pidana penjara selama 3(tiga) tahun dikurangi selama terdakwa berada dalam tahanan ",
+    "description": "Kasus nyata 1078/PID.B/2025/PN",
+    "true_case_id": "case_004"
+  },
+  {
+    "query_id": "REAL_case_003",
+    "query": "kesatu)2.menjatuhkan pidana terhadap terdakwa i. gusnaidi lubis alias bobibersama dengan terdakwa ii. mukhsin nasution alias husin, terdakwa iii.fredy wijaya alias jaya dan terdakwa iv. surawardi lubis dengan pidanapenjara masing-masing selama 2 (dua) tahun dan 6 (enam) bulan dikurangiselama kedua terdakwa berada dalam tahanan, 3.menetapkan barang bukti berupa :nihil4.menetapkan agar kedua terdakwa membayar biaya perkara masing-masing sebesar rp. 5.000,- (lima ribu rupiah).setelah mendengar permohonan para",
+    "expected_label": NaN,
+    "description": "Kasus nyata 1063/PID.B/2024/PN",
+    "true_case_id": "case_003"
+  },
+  {
+    "query_id": "REAL_case_041",
+    "query": ", bahwa terdakwa telah didakwa oleh penuntut umumdengan dakwaan yang berbentuk tunggal, sehingga majelis hakim denganmemperhatikan fakta-fakta hukum tersebut diatas memilih langsung dakwaantunggal sebagaimana diatur dalam pasal 351 ayat (1) kuhpidana, yang unsur-unsurnya adalah sebagai berikut : 1.unsur barang siapa;2.unsur melakukan penganiayaan.halaman 7 dari 11 putusan nomor 2065/pid.b/2024/pn mdn disclaimer kepaniteraan berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk k",
+    "expected_label": "pidana penjara selama 1 (satu) tahundikurangi masa penahanan yang telah dijalani ol; pidana penjara selama 1 (satu) tahun",
+    "description": "Kasus nyata 2065/PID.B/2024/PN",
+    "true_case_id": "case_041"
+  },
+  {
+    "query_id": "REAL_case_030",
+    "query": "tunggal;2.menjatuhkan pidana terhadap terdakwa lukman sianturi dengan pidanapenjara selama 1 (satu) tahun dan 6 (enam) bulan dikurangi selamaterdakwa berada dalam tahanan dan dengan perintah terdakwa tetapditahan;3.menyatakan barang bukti berupa : 1 (satu) buah kunci sepeda motor,dirampas untuk dimusnahkan;4.menetapkan agar terdakwa lukman sianturi dibebani membayar biayaperkara sebesar rp. 5.000,- (lima ribu rupiah);setelah mendengar permohonan terdakwa yang pada pokoknyamenyatakan mohon keringanan hukuman",
+    "expected_label": "pidana penjara selama 1 (satu) tahun dan 3 (tiga) bulan",
+    "description": "Kasus nyata 1551/PID.B/2024/PN",
+    "true_case_id": "case_030"
+  },
+  {
+    "query_id": "REAL_case_052",
+    "query": "penuntut umum tertanggal 22 april2024, nomor. reg. perkara : pdm-202/eoh.2/03/2024; setelah mendengarkan keterangan saksi-saksi maupun keteranganterdakwa dipersidangan ;setelah melihat dan memperhatikan barang bukti yang diajukandipersidangan dalam perkara ini ;setelah mendengarkan pasal 372; pasal 351 ayat (1); pasal 22 ayat (4); pasal 372 kuhp",
+    "expected_label": "pidana penjara selama 3 (tiga) tahun dikurangi selama terdakwaberada dalam tahanan; pidana penjara selama 3 (tiga) tahun",
+    "description": "Kasus nyata 612/PID.B/2024/PN",
+    "true_case_id": "case_052"
+  },
+  {
+    "query_id": "REAL_case_051",
+    "query": "alternatif kesatu melanggar pasal 170 ayat(2) ke-1 kuhp.2.menjatuhkan pidana terhadap terdakwa ardiansyah siahaan alsbelang als black dengan pidana penjara selama 3 (tahun) tahun dan6 (enam) bulan dikurangi selama terdakwa berada dalam tahanan, denganperintah agar terdakwa tetap ditahan.3.menetapkanbarangbukti : -1 (satu) potong kayu berbentuk bulat diameter kurang lebih 9 cm.-1 (satu) potong batang kayu berbentuk bulat diameter kuranglebih 4 cm.-1 (satu) unit sepeda motor merek honda warna hitam tanpa plat",
+    "expected_label": "pidana penjara selama 3 (tahun) tahun dan6 (enam) bulan dikurangi selama terdakwa b",
+    "description": "Kasus nyata 599/PID.B/2024/PN",
+    "true_case_id": "case_051"
+  },
+  {
+    "query_id": "REAL_case_017",
+    "query": ", bahwa terhadap dakwaan penuntut umum, terdakwa telahmengerti dengan isi dakwaan serta tidak mengajukan keberatan (eksepsi).halaman 6 dari 17 putusan nomor 1267/pid.b/2025/pn mdn disclaimer kepaniteraan berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen mahkamah agung untuk pelayanan publik, transparansi dan akuntabilitas pelaksanaan fungsi peradilan. namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian i",
+    "expected_label": "pidana penjara selama 2 (dua) tahun dan 6 (enam) bulan penjaradengan dikurangi sela; bebas",
+    "description": "Kasus nyata 1267/PID.B/2025/PN",
+    "true_case_id": "case_017"
+  },
+  {
+    "query_id": "REAL_case_057",
+    "query": ", bahwa terdakwa tidak mengajukan saksi yang meringankan(ade charge) bagi dirinya ;halaman 5 dari 11 putusan nomor 932/pid.b/2024/pn mdn disclaimer kepaniteraan berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen mahkamah agung untuk pelayanan publik, transparansi dan akuntabilitas pelaksanaan fungsi peradilan. namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang kami sajikan, hal mana akan t",
+    "expected_label": "pidana penjara selama 2 (dua) tahundan 6 (enam) bulan dikurangi masa penahanan selu",
+    "description": "Kasus nyata 932/PID.B/2024/PN",
+    "true_case_id": "case_057"
+  },
+  {
+    "query_id": "REAL_case_049",
+    "query": "penuntut umum, terdakwa danatau penasihat hukum terdakwa telah mengajukan keberatan dan telah diputusdengan putusan sela nomor 570/pid.b/2023/pn. mdn tanggal 4 juni 2024 yangamarnya sebagai berikut:mengadili:-menyatakan keberatan tim penasehat hukum terdakwa kshatriyafernando sitepu alias satria tersebut tidak dapat diterima; -menetapkan agar pemeriksaan perkara ini dilanjutkan;-menangguhkan biaya perkara ini hingga putusan akhir;halaman 7 dari 19 putusan nomor 570/pid.b/2024/pn mdn disclaimer kepaniteraan ",
+    "expected_label": "pidana penjara selama 1 (satu) tahun dikurangi selamaterdakwa berada dalam tahanan ",
+    "description": "Kasus nyata 570/PID.B/2024/PN",
+    "true_case_id": "case_049"
+  }
+]
