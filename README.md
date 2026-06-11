@@ -45,10 +45,11 @@ Diberikan deskripsi kasus baru, sistem akan:
 ## 🗂️ Struktur Repository
 
 ```
-projek-cbr-hukum/
+Penalaran-Komputer_SubCpmk3/
 │
 ├── data/
-│   ├── raw/                    # File .txt bersih per kasus (case_001.txt, ...)
+│   ├── raw/                    # File Pdf Putusan
+│   │   ├── cleaned             # File .txt bersih per kasus (case_001.txt, ...)
 │   ├── processed/
 │   │   ├── cases.csv           # Metadata + fitur semua kasus
 │   │   └── cases.json          # Versi JSON lengkap (termasuk text_full)
