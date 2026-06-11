@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1-Score,Hit@1,Hit@3,Hit@5,MRR
+CBR BERT (Weighted Vote),0.4667,0.2667,0.4667,0.3394,1.0,1.0,1.0,1.0
