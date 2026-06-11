@@ -10,7 +10,7 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.2+-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-**Mata Kuliah:** Penalaran Komputer | Semester Genap 2025/2026  
+**Mata Kuliah:** Penalaran Komputer C | Semester Genap 2025/2026  
 **Program Studi:** Informatika — Fakultas Teknik, Universitas Muhammadiyah Malang  
 **Sumber Data:** [Direktori Putusan Mahkamah Agung RI](https://putusan3.mahkamahagung.go.id)
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 📋 Deskripsi Proyek
+## Deskripsi Proyek
 
 Proyek ini mengimplementasikan sistem **Case-Based Reasoning (CBR)** berbasis Python untuk mendukung analisis putusan pengadilan pada domain **Pidana Umum — Penganiayaan** (Pasal 351–356 KUHP). Sistem bekerja dengan siklus CBR penuh:
 
@@ -27,13 +27,13 @@ Retrieve → Reuse → Revise → Retain
 ```
 
 Diberikan deskripsi kasus baru, sistem akan:
-1. Mencari putusan lama yang paling mirip dari case base (≥ 30 putusan PN Malang)
+1. Mencari putusan lama yang paling mirip dari case base (≥ 30 putusan PN Medan)
 2. Menggunakan putusan-putusan termirip sebagai dasar prediksi vonis
 3. Memvalidasi dan menyimpan kasus baru yang terbukti benar ke case base
 
 ---
 
-## 👥 Tim
+## Tim
 
 | Nama | NIM |Github |
 |------|-----|-----
@@ -42,7 +42,7 @@ Diberikan deskripsi kasus baru, sistem akan:
 
 ---
 
-## 🗂️ Struktur Repository
+## Struktur Repository
 
 ```
 Penalaran-Komputer_SubCpmk3/
@@ -90,7 +90,7 @@ Penalaran-Komputer_SubCpmk3/
 
 ---
 
-## ⚙️ Instalasi
+## Instalasi
 
 ### Prasyarat
 - Python 3.9 atau lebih baru
@@ -131,19 +131,19 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Cara Menjalankan Pipeline
+## Cara Menjalankan Pipeline
 
 > Buka VSCode → buka folder `projek-cbr-hukum` → jalankan tiap notebook **secara berurutan**.
 
 ---
 
-### 📥 Langkah 0 — Siapkan Data
+### Langkah 0 — Siapkan Data
 
 1. Buka [https://putusan3.mahkamahagung.go.id](https://putusan3.mahkamahagung.go.id)
 2. Filter pencarian:
    - **Klasifikasi:** Pidana Umum
    - **Sub-klasifikasi:** Penganiayaan
-   - **Pengadilan:** Pengadilan Negeri Malang
+   - **Pengadilan:** Pengadilan Negeri Medan
 3. Download minimal **34 file PDF** putusan
 4. Letakkan semua PDF di folder `data/raw/`
 
@@ -176,7 +176,7 @@ logs/cleaning.log
 
 **Yang dilakukan:**
 - Ekstraksi metadata otomatis via regex:
-  - Nomor perkara (format `XXX/Pid/YYYY/PN.Mlg`)
+  - Nomor perkara (format `XXX/Pid/YYYY/PN.Mdn`)
   - Tanggal putusan (konversi ke format `YYYY-MM-DD`)
   - Jenis perkara (Penganiayaan / KDRT / Pembunuhan)
   - Pasal yang digunakan (Pasal 351–356 KUHP)
@@ -196,7 +196,7 @@ data/processed/cases.json   # Lengkap termasuk text_full
 
 | case_id | no_perkara | tanggal | jenis_perkara | pasal | vonis | label_vonis |
 |---------|-----------|---------|--------------|-------|-------|------------|
-| case_001 | 123/Pid/2023/PN.Mlg | 2023-05-12 | Pidana Umum - Penganiayaan | Pasal 351 KUHP | pidana penjara 2 tahun | ringan |
+| case_001 | 123/Pid/2023/PN.Mdn | 2023-05-12 | Pidana Umum - Penganiayaan | Pasal 351 KUHP | pidana penjara 2 tahun | ringan |
 
 ---
 
