@@ -37,8 +37,8 @@ Diberikan deskripsi kasus baru, sistem akan:
 
 | Nama | NIM |Github |
 |------|-----|-----
-| Mohammad Ravlindo Saputra | 202310370311115 | ravlindoMs |
-| Mukhamad Sofyan | 202310370311135 | mukhamadsofyan |
+| Mohammad Ravlindo Saputra | 202310370311115 | [ravlindo](https://github.com/ravlindo) |
+| Mukhamad Sofyan | 202310370311135 | [mukhamadsofyan](https://github.com/mukhamadsofyan) |
 
 ---
 
