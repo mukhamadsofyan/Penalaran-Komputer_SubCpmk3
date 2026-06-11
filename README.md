@@ -1,5 +1,5 @@
 # Sistem Case-Based Reasoning (CBR) untuk Analisis Putusan Pengadilan
-### Pidana Umum — Penganiayaan | Pengadilan Negeri Malang
+### Pidana Umum — Penganiayaan | Pengadilan Negeri Medan
 
 ---
 
